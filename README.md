@@ -66,15 +66,6 @@ Ingeniero Informático con doble titulación en Administración y Dirección de 
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaimeberdejo&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeberdejo&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
----
-
 ### 📫 Connect · Contacto
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/jaime-berdejo-sanchez/
