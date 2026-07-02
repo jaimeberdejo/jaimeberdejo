@@ -5,6 +5,12 @@
   <i>LLM/RAG · agentic systems · production data pipelines</i>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaime-berdejo-sanchez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="https://jaimeberdejo.github.io/CV_Generator/"><img alt="Live CV" src="https://img.shields.io/badge/Live%20CV-2ea44f?logo=readthedocs&logoColor=white"/></a>
+  <a href="mailto:jaimeberdejo1902@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+</p>
+
 ---
 
 ### 🇬🇧 About
@@ -14,6 +20,13 @@ Computer Science graduate with a dual degree in Business Administration and an *
 ### 🇪🇸 Sobre mí
 
 Ingeniero Informático con doble titulación en Administración y Dirección de Empresas y un **Máster en Inteligencia Artificial Aplicada a los Mercados Financieros**, combinando una base técnica sólida con visión cuantitativa y de negocio. Tengo experiencia práctica construyendo **pipelines ETL en producción sobre AWS** y desarrollando **sistemas basados en LLMs** — desde aplicaciones RAG y agénticas hasta plataformas de analítica de datos. Llevo los proyectos de la idea a producción, transformando problemas complejos en herramientas escalables e inteligentes con impacto medible.
+
+---
+
+### 🚧 Currently Building · Construyendo ahora
+
+- **FiscalPilot** — Agentic SaaS acting as a **virtual CFO for Spanish freelancers**: PSD2 bank-account sync, automatic IVA/IRPF tax reservation, expense classification and idle-cash investment proposals — all under human-in-the-loop approval and full auditability (GDPR · EU AI Act · MiFID II). Built on a deterministic tax engine with an agentic LangGraph reasoning layer. *Python · FastAPI · LangGraph · Claude API · Supabase · Next.js · PSD2 (GoCardless). Private — available on request.*
+- **RAG for European Financial Regulation — Master's Thesis (TFM)** — Empirical study designing and evaluating **RAG systems over the full hierarchy of EU financial regulation** (Regulations, RTS, ESMA Q&As, CNMV criteria): a modular pipeline, a public benchmark of validated Q&A pairs, and evaluation of chunking, embeddings and generator LLMs on retrieval (Recall@k, MRR) and generation (faithfulness, relevance) metrics, following RAGAS and LegalBench-RAG. *Python · LangChain · sentence-transformers · RAGAS · vector DBs.*
 
 ---
 
@@ -64,6 +77,7 @@ Ingeniero Informático con doble titulación en Administración y Dirección de 
 
 ### 📫 Connect · Contacto
 
+- 💼 **LinkedIn:** https://www.linkedin.com/in/jaime-berdejo-sanchez/
 - 🌐 **Live CV / CV interactivo:** https://jaimeberdejo.github.io/CV_Generator/
 - 📧 **Email:** jaimeberdejo1902@gmail.com
 - 📍 Barcelona, Spain
